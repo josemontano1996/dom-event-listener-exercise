@@ -1,5 +1,5 @@
 const myName = "Max";
 
-if (true) {
-    console.log("Hello!");
+if (myName === "Max") {
+  console.log("Hello!");
 }
